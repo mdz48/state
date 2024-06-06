@@ -1,0 +1,33 @@
+#card-content {
+    color: white;
+    display: flex;
+    background-color: #3c3e44;
+    border-radius: 10px;
+    width: 45%;
+    margin: 10px 0;
+}
+
+#picture {
+    display: flex;
+}
+
+#picture img{
+    width: 75%;
+}
+
+
+#text {
+    display: flex;
+    flex-direction: column;
+}
+
+#info {
+    
+}
+.narrow {
+    color: #7a7c7b;
+}
+
+#text h2:hover {
+    color: orange;
+}

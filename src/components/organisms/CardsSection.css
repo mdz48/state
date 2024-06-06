@@ -1,0 +1,12 @@
+#cards-section{
+    width: 65%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+#main {
+    background-color: #272b33;
+    display: flex;
+    justify-content: center;
+}
